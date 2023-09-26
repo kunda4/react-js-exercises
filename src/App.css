@@ -1,7 +1,10 @@
 body{
-  background-color: yellow;
+  max-width: 0;
+  padding: 0;
+  display: flexbox;
 }
 .hello{
+  background-color: yellow;
   width: 100%;
   height: 100vh;
   display: flex;

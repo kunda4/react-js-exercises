@@ -1,12 +1,12 @@
 import './App.css'
-
+import HelloWorld from './Components/HelloWorld'
+import UserClick from './Components/CapturingUserClick'
 function App() {
 
   return (
     <>
-      <div className='hello'>
-      <h1 >Hello World!</h1>
-      </div>
+    {/* <HelloWorld/> */}
+    <UserClick/>
     </>
   )
 }
