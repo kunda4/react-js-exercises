@@ -1,12 +1,10 @@
-import './App.css'
-import HelloWorld from './Components/HelloWorld'
-import UserClick from './Components/CapturingUserClick'
+import React from 'react'
+import HelloWorld from './Components/HelloWorld/HelloWorld'
 function App() {
 
   return (
     <>
-    {/* <HelloWorld/> */}
-    <UserClick/>
+    <HelloWorld/>
     </>
   )
 }
