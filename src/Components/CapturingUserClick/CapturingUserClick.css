@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flexbox;
+  }
+  .btn{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  button{
+    padding: 15px 30px;
+  }
