@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import '../src/Components/CapturingUserClick/CapturingUserClick.css'
+import '../src/Components/CustomComponent/CustomComponent.css'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
