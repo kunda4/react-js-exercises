@@ -1,10 +1,11 @@
 import React from 'react'
-import UserClick from './Components/CapturingUserClick/CapturingUserClick'
+import CustomComponent from './Components/CustomComponent/CustomComponent'
+
 function App() {
 
   return (
     <>
-    <UserClick/>
+      <CustomComponent/>
     </>
   )
 }
