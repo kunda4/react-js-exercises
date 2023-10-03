@@ -1,10 +1,10 @@
 import React from 'react'
-import HelloWorld from './Components/HelloWorld/HelloWorld'
+import UserClick from './Components/CapturingUserClick/CapturingUserClick'
 function App() {
 
   return (
     <>
-    <HelloWorld/>
+    <UserClick/>
     </>
   )
 }
