@@ -1,10 +1,10 @@
-import React from 'react'
-import HelloWorld from './Components/HelloWorld/HelloWorld'
+
+import MappingList from './Components/MappingList/MappingList'
 function App() {
 
   return (
     <>
-    <HelloWorld/>
+    <MappingList/>
     </>
   )
 }

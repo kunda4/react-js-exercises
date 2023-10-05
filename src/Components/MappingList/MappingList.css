@@ -1,0 +1,15 @@
+
+
+.myList{
+    height: 100vh;
+    width: 100%;
+    display:  flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    margin: 50px;
+    gap: .625rem;
+}
+li{
+    font-size: x-large;
+}
