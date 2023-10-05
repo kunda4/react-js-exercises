@@ -1,10 +1,10 @@
-import React from 'react'
-import HelloWorld from './Components/HelloWorld/HelloWorld'
+
+import StateProps from './Components/StateProps/StateProps'
 function App() {
 
   return (
     <>
-    <HelloWorld/>
+    <StateProps/>
     </>
   )
 }

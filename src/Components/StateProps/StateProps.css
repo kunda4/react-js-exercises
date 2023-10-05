@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.myCount{
+    width: 100%;
+    height: 100vh;
+    display:  flex;
+    flex-direction: column;
+    gap: 2.5rem;
+    justify-content:start;
+    align-items: center;
+    margin-top: 100px;
+}
+.myCount h4{
+    font-size: large;
+}
+
+.btn{
+    padding: 20px 30px;
+}
