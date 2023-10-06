@@ -1,10 +1,10 @@
-import React from 'react'
-import HelloWorld from './Components/HelloWorld/HelloWorld'
+
+import MappingCustom from './Components/MappingCustomComponent/MappingCustom'
 function App() {
 
   return (
     <>
-    <HelloWorld/>
+    <MappingCustom/>
     </>
   )
 }

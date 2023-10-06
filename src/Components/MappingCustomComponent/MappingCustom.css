@@ -1,0 +1,18 @@
+.myList{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+.myAnimals{
+    margin-top: 10px;
+}
+.img{
+    margin-right: 10px;
+}
+
+.animal{
+    font-size: large;
+}
