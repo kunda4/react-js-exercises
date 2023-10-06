@@ -1,4 +1,3 @@
-import React from 'react'
 import HelloWorld from './Components/HelloWorld/HelloWorld'
 function App() {
 
