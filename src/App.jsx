@@ -1,10 +1,8 @@
-import HelloWorld from './Components/HelloWorld/HelloWorld'
+import BuildForm from './Components/buildingForm/buildForm'
 function App() {
 
   return (
-    <>
-    <HelloWorld/>
-    </>
+    <BuildForm/>
   )
 }
 
